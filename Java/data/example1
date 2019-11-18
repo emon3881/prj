@@ -1,0 +1,45 @@
+<HTML>
+<body>
+
+<H11> We are learning HTML </H1><BR/>
+
+<font color="red" size="40"  ><HI> WE ARE LEARNING JAVA</H1> </font> </br>
+
+ <a href="http:www.seleniumhq.org">   go to Selenium page  </a> </br>
+ 
+ 
+ 
+ <ul>
+ 
+ <ol>
+ 
+ <li>apple </li>
+ <li> orange </li>
+ <li>Banana </li>
+ 
+ </ol>
+
+</ul> </br>
+
+<input type="textbobox"> </br>
+</br>
+</br>
+<input type="button" value="ok">
+
+</br>
+<select>
+
+<option value="New York" > New York </option>
+<option value="New jersy" > New jersy </option>
+<option value="Taxas" > taxas </option>
+</select>
+</br>
+</br>
+</br>
+</br></br>
+
+
+<img src="pic1.jpg" height="50" width "50">
+
+
+
